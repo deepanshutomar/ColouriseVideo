@@ -75,6 +75,13 @@ ColouriseVideo/
 └── README.md                 # Project documentation
 ```
 
+## Sample
+![woman](https://github.com/user-attachments/assets/d1108451-06c3-4e4d-bd48-05a276354b9b)![woman](https://github.com/user-attachments/assets/a39dee53-380b-48b6-8403-022399ffdf24)
+
+### Video
+
+![1020 (1)(3) (1)](https://github.com/user-attachments/assets/a8ccf52f-d314-4f66-8507-2372e1f4f9d7)
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
