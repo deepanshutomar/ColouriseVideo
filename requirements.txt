@@ -1,0 +1,10 @@
+numpy
+opencv-python
+torch
+torchvision
+matplotlib
+Pillow
+tqdm
+jupyter
+ffmpeg-python
+scikit-image
